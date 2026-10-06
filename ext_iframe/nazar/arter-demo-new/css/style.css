@@ -2806,3 +2806,7 @@ html.is-animating .fade-left {
     -webkit-transform: scale(1);
             transform: scale(1); } }
 /*# sourceMappingURL=style.css.map */
+/* availability lamp - green */
+.art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp { background-color: #00e676 !important; }
+.art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp:after { background-color: rgba(0,230,118,.35) !important; }
+.art-info-bar .art-header .art-avatar .art-lamp-light .art-available-lamp:before { background-color: rgba(0,230,118,.2) !important; }
